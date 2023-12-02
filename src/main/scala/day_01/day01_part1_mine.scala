@@ -1,4 +1,4 @@
-package day01_mine
+package day01_part1_mine
 
 import locations.Directory.currentDir
 import inputs.Input.loadFileSync
